@@ -1,0 +1,21 @@
+header{
+    background-color: white;
+    display: grid;
+    grid-template-columns: 1fr min-content 1fr;
+    align-items:center;
+    top: 80px;
+    bottom: 30px;
+}
+
+.nav-header{
+    display: flex;   
+    margin: auto;
+    gap: 15px;
+    list-style: circle;
+}
+
+address{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
