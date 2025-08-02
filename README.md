@@ -1,2 +1,1 @@
-
-https://github.com/viktory2023/you_need_it.git
+https://github.com/viktory2023/ono-tebe-nado.git
